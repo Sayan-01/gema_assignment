@@ -67,3 +67,13 @@ Backend:
 - npm i
 - npm run dev
 - http://localhost:5173
+
+## 📹 Demo Video
+
+<video width="1919" height="1039" alt="demo video" src="https://github.com/user-attachments/assets/af4a42a9-dd72-4682-ac3c-33a5bf4995b9" />
+
+
+## 🖼️ Demo Image
+
+<img width="1919" height="1039" alt="Screenshot 2025-12-27 180636" src="https://github.com/user-attachments/assets/61704100-1406-462d-97d2-5cb83bda9eec" />
+
