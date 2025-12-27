@@ -39,6 +39,18 @@ Feedback updates automatically when score values change.
 
 ---
 
+### Feedback Logic
+
+Feedback is generated using simple conditional logic:
+
+if (score >= 8) {
+  feedback = "Excellent performance with strong control.";
+} else if (score >= 6) {
+  feedback = "Good performance with minor inaccuracies.";
+} else {
+  feedback = "Needs improvement.";
+}
+
 ## 🛠️ Tech Stack
 
 - React + Vite
